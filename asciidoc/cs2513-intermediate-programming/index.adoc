@@ -1,0 +1,8 @@
+= CS2513: Intermediate Programming
+Fionn Kelleher <fionnkell@gmail.com>
+:lecturer: Cathal Hoare
+
+To build on the foundation of CS1117, particularly in the areas of object-oriented concepts and library usage, in designing and implementing computer programs of increasing sophistication and complexity.
+
+include::sections/introduction.adoc[]
+include::sections/bibliography.adoc[]

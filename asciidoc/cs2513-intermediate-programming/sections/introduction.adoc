@@ -1,0 +1,10 @@
+== Introduction
+
+Object-oriented programming is a programming paradigm often characterised by three concepts:
+
+Encapsulation::
+	Restricting direct access to some of the object's components <<encap>>
+Inheritance::
+	Basing a class upon another class, retaining similar implementation. <<inherit>>
+Composition::
+	Combining simple classes to make more complex classes. <<comp>>

@@ -1,0 +1,6 @@
+[bibliography]
+== References
+
+- [[[encap,1]]] doidjn
+- [[[inherit,2]]] dd
+- [[[comp,3]]] https://stackoverflow.com/a/3441143
